@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "your.server.ip",
-    "port": 25565,
+    "ip": "your.server.ip"playerhimel.aternos.me
+    "port": 58846,
     "version": "",
     "try-creative": false
   },
